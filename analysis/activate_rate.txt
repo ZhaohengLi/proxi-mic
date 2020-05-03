@@ -1,0 +1,82 @@
+
+./speech-5.model
+frame activate rate is as follows.
+./user_data/2cm-0/: 0.8225806451612904
+./user_data/2cm-cover/: 0.9768115942028985
+./user_data/2cm-cover-new/: 0.9312320916905444
+
+./speech-5.model
+frame activate rate is as follows.
+./user_data/2cm-0/: 0.8225806451612904
+./user_data/2cm-cover/: 0.9768115942028985
+./user_data/2cm-cover-new/: 0.9312320916905444
+
+./speech-5.model
+frame activate rate is as follows.
+./user_data/2cm-0/: 0.8225806451612904
+./user_data/2cm-cover/: 0.9768115942028985
+./user_data/2cm-cover-new/: 0.9312320916905444
+./user_data/2cm-new/: 0.8820375335120644
+./user_data/5cm-0/: 0.9201388888888888
+./user_data/5cm-30/: 0.9236641221374046
+./user_data/5cm-60/: 0.9522184300341296
+./user_data/5cm-90/: 0.8417910447761194
+./user_data/10cm-0/: 0.9347826086956522
+./user_data/10cm-small/: 0.8619631901840491
+./user_data/20cm-0/: 0.39215686274509803
+./user_data/30cm-0/: 0.005865102639296188
+./user_data/50cm-0/: 0.0
+./user_data/attack/: 0.0
+recording activate rate is as follows.
+./user_data/2cm-0/: 0.8991596638655462
+./user_data/2cm-cover/: 0.9915966386554622
+./user_data/2cm-cover-new/: 1.0
+./user_data/2cm-new/: 0.9893617021276596
+./user_data/5cm-0/: 0.9747899159663865
+./user_data/5cm-30/: 0.9411764705882353
+./user_data/5cm-60/: 0.9831932773109243
+./user_data/5cm-90/: 0.9411764705882353
+./user_data/10cm-0/: 0.8739495798319328
+./user_data/10cm-small/: 0.8823529411764706
+./user_data/20cm-0/: 0.23529411764705882
+./user_data/30cm-0/: 0.0
+./user_data/50cm-0/: 0.0
+./user_data/attack/: 0.0
+
+./speech-5.model
+frame activate rate is as follows.
+./user_data/2cm-0/: 0.8225806451612904
+./user_data/2cm-cover/: 0.9768115942028985
+./user_data/2cm-cover-new/: 0.9312320916905444
+./user_data/2cm-new/: 0.8820375335120644
+./user_data/5cm-0/: 0.9201388888888888
+./user_data/5cm-30/: 0.9236641221374046
+./user_data/5cm-60/: 0.9522184300341296
+./user_data/5cm-90/: 0.8417910447761194
+./user_data/10cm-0/: 0.9347826086956522
+./user_data/10cm-small/: 0.8619631901840491
+./user_data/20cm-0/: 0.39215686274509803
+./user_data/30cm-0/: 0.005865102639296188
+./user_data/50cm-0/: 0.0
+./user_data/attack/: 0.0
+recording activate rate is as follows.
+./user_data/2cm-0/: 0.9663865546218487
+./user_data/2cm-cover/: 1.0
+./user_data/2cm-cover-new/: 1.0
+./user_data/2cm-new/: 1.0
+./user_data/5cm-0/: 1.0
+./user_data/5cm-30/: 0.9915966386554622
+./user_data/5cm-60/: 1.0
+./user_data/5cm-90/: 0.9747899159663865
+./user_data/10cm-0/: 0.9831932773109243
+./user_data/10cm-small/: 0.9831932773109243
+./user_data/20cm-0/: 0.5798319327731093
+./user_data/30cm-0/: 0.01680672268907563
+./user_data/50cm-0/: 0.0
+./user_data/attack/: 0.0
+
+./speech-5.model
+frame activate rate is as follows.
+
+./speech-5.model
+frame activate rate is as follows.
