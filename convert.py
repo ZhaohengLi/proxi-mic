@@ -10,6 +10,7 @@ folders = ["./recordings/2cm-0/",
            "./recordings/5cm-30/",
            "./recordings/5cm-60/",
            "./recordings/5cm-90/",
+           "./recordings/5cm-pen-re/",
            "./recordings/10cm-0/",
            "./recordings/10cm-small/",
            "./recordings/20cm-0/",
@@ -26,7 +27,7 @@ def to_pickle():
     for folder in folders:
         print(folder)
         recordings = []
-        for file_name in find_all_m4a_file(folder):
+        for file_name in find_all_sound_file(folder):
             y, sr = librosa.load(file_name, sr=None, mono=False)
             assert (sr == 48000)
             y = y[0].copy() if y[0].max() > y[1].max() else y[1].copy()
@@ -45,15 +46,15 @@ def from_pickle():
         return data
 
 
-def find_all_m4a_file(base):
+def find_all_sound_file(base):
     for root, ds, fs in os.walk(base):
         for f in fs:
-            if f.endswith('.m4a'):
+            if f.endswith('.m4a') or f.endswith('.WAV'):
                 fullname = os.path.join(root, f)
                 yield fullname
 
 
 if __name__ == '__main__':
-    from_pickle()
+    to_pickle()
     pass
 

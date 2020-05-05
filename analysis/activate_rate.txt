@@ -115,3 +115,90 @@ recording activate rate is as follows.
 ./user_data/30cm-0/: 53/714 = 0.0742296918767507
 ./user_data/50cm-0/: 0/714 = 0.0
 ./user_data/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/5cm-pen/: 481/1156 = 0.41608996539792387
+recording activate rate is as follows.
+./recordings/5cm-pen/: 232/238 = 0.9747899159663865
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/5cm-pen/: 411/808 = 0.5086633663366337
+recording activate rate is as follows.
+./recordings/5cm-pen/: 232/238 = 0.9747899159663865
+
+./models/speech-5.model
+frame activate rate is as follows.
+./user_data/2cm-0/: 1460/1581 = 0.9234661606578115
+./user_data/2cm-cover/: 1673/1680 = 0.9958333333333333
+./user_data/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./user_data/2cm-new/: 1710/1742 = 0.981630309988519
+./user_data/5cm-0/: 1473/1494 = 0.9859437751004017
+./user_data/5cm-30/: 1335/1368 = 0.9758771929824561
+./user_data/5cm-60/: 1484/1500 = 0.9893333333333333
+./user_data/5cm-90/: 1504/1602 = 0.9388264669163545
+./user_data/10cm-0/: 1364/1403 = 0.9722024233784747
+./user_data/10cm-small/: 1502/1572 = 0.955470737913486
+./user_data/20cm-0/: 734/1152 = 0.6371527777777778
+./user_data/30cm-0/: 73/1520 = 0.04802631578947368
+./user_data/50cm-0/: 0/1491 = 0.0
+./user_data/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./user_data/2cm-0/: 696/714 = 0.9747899159663865
+./user_data/2cm-cover/: 714/714 = 1.0
+./user_data/2cm-cover-new/: 564/564 = 1.0
+./user_data/2cm-new/: 564/564 = 1.0
+./user_data/5cm-0/: 714/714 = 1.0
+./user_data/5cm-30/: 692/714 = 0.969187675070028
+./user_data/5cm-60/: 713/714 = 0.9985994397759104
+./user_data/5cm-90/: 694/714 = 0.9719887955182073
+./user_data/10cm-0/: 696/714 = 0.9747899159663865
+./user_data/10cm-small/: 704/714 = 0.9859943977591037
+./user_data/20cm-0/: 438/708 = 0.6186440677966102
+./user_data/30cm-0/: 53/714 = 0.0742296918767507
+./user_data/50cm-0/: 0/714 = 0.0
+./user_data/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/5cm-pen-re/: 1487/3006 = 0.49467731204258153
+recording activate rate is as follows.
+./recordings/5cm-pen-re/: 701/714 = 0.9817927170868347
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+./recordings/5cm-pen-re/: 1487/3006 = 0.49467731204258153
+./recordings/10cm-0/: 1364/1403 = 0.9722024233784747
+./recordings/10cm-small/: 1502/1572 = 0.955470737913486
+./recordings/20cm-0/: 734/1152 = 0.6371527777777778
+./recordings/30cm-0/: 73/1520 = 0.04802631578947368
+./recordings/50cm-0/: 0/1491 = 0.0
+./recordings/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./recordings/2cm-0/: 696/714 = 0.9747899159663865
+./recordings/2cm-cover/: 714/714 = 1.0
+./recordings/2cm-cover-new/: 564/564 = 1.0
+./recordings/2cm-new/: 564/564 = 1.0
+./recordings/5cm-0/: 714/714 = 1.0
+./recordings/5cm-30/: 692/714 = 0.969187675070028
+./recordings/5cm-60/: 713/714 = 0.9985994397759104
+./recordings/5cm-90/: 694/714 = 0.9719887955182073
+./recordings/5cm-pen-re/: 701/714 = 0.9817927170868347
+./recordings/10cm-0/: 696/714 = 0.9747899159663865
+./recordings/10cm-small/: 704/714 = 0.9859943977591037
+./recordings/20cm-0/: 438/708 = 0.6186440677966102
+./recordings/30cm-0/: 53/714 = 0.0742296918767507
+./recordings/50cm-0/: 0/714 = 0.0
+./recordings/attack/: 4/714 = 0.0056022408963585435

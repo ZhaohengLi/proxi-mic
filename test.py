@@ -17,6 +17,13 @@ def test_frame():
         frame_sum = 0
 
         for recording in data[folder]:
+            sr = 8000
+            th = 0.05
+            r = 0.1
+            s = max(0, (recording < th).argmin() - int(r * sr))
+            t = min(-1, -((recording < th)[::-1].argmin()) + int(r * sr))
+            recording = recording[s:t]
+
             if len(recording) < 8000:
                 continue
 
@@ -44,10 +51,10 @@ def test_recording():
         recording_sum = 0
         activate_sum = 0
         for recording in data[folder]:
-            recording_sum += 1
             if len(recording) < 8000:
                 continue
 
+            recording_sum += 1
             section_num = math.ceil(len(recording) / 8000)
             for i in range(section_num):
                 if i == section_num-1:
