@@ -202,3 +202,153 @@ recording activate rate is as follows.
 ./recordings/30cm-0/: 53/714 = 0.0742296918767507
 ./recordings/50cm-0/: 0/714 = 0.0
 ./recordings/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+./recordings/5cm-pen-re/: 1434/2859 = 0.5015739769150053
+./recordings/10cm-0/: 1364/1403 = 0.9722024233784747
+./recordings/10cm-small/: 1502/1572 = 0.955470737913486
+./recordings/20cm-0/: 734/1152 = 0.6371527777777778
+./recordings/30cm-0/: 73/1520 = 0.04802631578947368
+./recordings/50cm-0/: 0/1491 = 0.0
+./recordings/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./recordings/2cm-0/: 696/714 = 0.9747899159663865
+./recordings/2cm-cover/: 714/714 = 1.0
+./recordings/2cm-cover-new/: 564/564 = 1.0
+./recordings/2cm-new/: 564/564 = 1.0
+./recordings/5cm-0/: 714/714 = 1.0
+./recordings/5cm-30/: 692/714 = 0.969187675070028
+./recordings/5cm-60/: 713/714 = 0.9985994397759104
+./recordings/5cm-90/: 694/714 = 0.9719887955182073
+./recordings/5cm-pen-re/: 701/714 = 0.9817927170868347
+./recordings/10cm-0/: 696/714 = 0.9747899159663865
+./recordings/10cm-small/: 704/714 = 0.9859943977591037
+./recordings/20cm-0/: 438/708 = 0.6186440677966102
+./recordings/30cm-0/: 53/714 = 0.0742296918767507
+./recordings/50cm-0/: 0/714 = 0.0
+./recordings/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+./recordings/5cm-pen-re/: 1648/2151 = 0.7661552766155276
+./recordings/10cm-0/: 1364/1403 = 0.9722024233784747
+./recordings/10cm-small/: 1502/1572 = 0.955470737913486
+./recordings/20cm-0/: 734/1152 = 0.6371527777777778
+./recordings/30cm-0/: 73/1520 = 0.04802631578947368
+./recordings/50cm-0/: 0/1491 = 0.0
+./recordings/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./recordings/2cm-0/: 696/714 = 0.9747899159663865
+./recordings/2cm-cover/: 714/714 = 1.0
+./recordings/2cm-cover-new/: 564/564 = 1.0
+./recordings/2cm-new/: 564/564 = 1.0
+./recordings/5cm-0/: 714/714 = 1.0
+./recordings/5cm-30/: 692/714 = 0.969187675070028
+./recordings/5cm-60/: 713/714 = 0.9985994397759104
+./recordings/5cm-90/: 694/714 = 0.9719887955182073
+./recordings/5cm-pen-re/: 701/714 = 0.9817927170868347
+./recordings/10cm-0/: 696/714 = 0.9747899159663865
+./recordings/10cm-small/: 704/714 = 0.9859943977591037
+./recordings/20cm-0/: 438/708 = 0.6186440677966102
+./recordings/30cm-0/: 53/714 = 0.0742296918767507
+./recordings/50cm-0/: 0/714 = 0.0
+./recordings/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+./recordings/5cm-pen-re/: 1654/2116 = 0.781663516068053
+./recordings/10cm-0/: 1364/1403 = 0.9722024233784747
+./recordings/10cm-small/: 1502/1572 = 0.955470737913486
+./recordings/20cm-0/: 734/1152 = 0.6371527777777778
+./recordings/30cm-0/: 73/1520 = 0.04802631578947368
+./recordings/50cm-0/: 0/1491 = 0.0
+./recordings/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./recordings/2cm-0/: 696/714 = 0.9747899159663865
+./recordings/2cm-cover/: 714/714 = 1.0
+./recordings/2cm-cover-new/: 564/564 = 1.0
+./recordings/2cm-new/: 564/564 = 1.0
+./recordings/5cm-0/: 714/714 = 1.0
+./recordings/5cm-30/: 692/714 = 0.969187675070028
+./recordings/5cm-60/: 713/714 = 0.9985994397759104
+./recordings/5cm-90/: 694/714 = 0.9719887955182073
+./recordings/5cm-pen-re/: 703/714 = 0.9845938375350141
+./recordings/10cm-0/: 696/714 = 0.9747899159663865
+./recordings/10cm-small/: 704/714 = 0.9859943977591037
+./recordings/20cm-0/: 438/708 = 0.6186440677966102
+./recordings/30cm-0/: 53/714 = 0.0742296918767507
+./recordings/50cm-0/: 0/714 = 0.0
+./recordings/attack/: 4/714 = 0.0056022408963585435
+
+./models/speech-5.model
+frame activate rate is as follows.
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+
+./models/speech-5.model
+frame activate rate is as follows.
+./recordings/2cm-0/: 1460/1581 = 0.9234661606578115
+./recordings/2cm-cover/: 1673/1680 = 0.9958333333333333
+./recordings/2cm-cover-new/: 1744/1788 = 0.9753914988814317
+./recordings/2cm-new/: 1710/1742 = 0.981630309988519
+./recordings/5cm-0/: 1473/1494 = 0.9859437751004017
+./recordings/5cm-30/: 1335/1368 = 0.9758771929824561
+./recordings/5cm-60/: 1484/1500 = 0.9893333333333333
+./recordings/5cm-90/: 1504/1602 = 0.9388264669163545
+./recordings/5cm-pen-re/: 1462/1718 = 0.8509895227008148
+./recordings/10cm-0/: 1364/1403 = 0.9722024233784747
+./recordings/10cm-small/: 1502/1572 = 0.955470737913486
+./recordings/20cm-0/: 734/1152 = 0.6371527777777778
+./recordings/30cm-0/: 73/1520 = 0.04802631578947368
+./recordings/50cm-0/: 0/1491 = 0.0
+./recordings/attack/: 1/1444 = 0.0006925207756232687
+recording activate rate is as follows.
+./recordings/2cm-0/: 696/714 = 0.9747899159663865
+./recordings/2cm-cover/: 714/714 = 1.0
+./recordings/2cm-cover-new/: 564/564 = 1.0
+./recordings/2cm-new/: 564/564 = 1.0
+./recordings/5cm-0/: 714/714 = 1.0
+./recordings/5cm-30/: 692/714 = 0.969187675070028
+./recordings/5cm-60/: 713/714 = 0.9985994397759104
+./recordings/5cm-90/: 694/714 = 0.9719887955182073
+./recordings/5cm-pen-re/: 703/714 = 0.9845938375350141
+./recordings/10cm-0/: 696/714 = 0.9747899159663865
+./recordings/10cm-small/: 704/714 = 0.9859943977591037
+./recordings/20cm-0/: 438/708 = 0.6186440677966102
+./recordings/30cm-0/: 53/714 = 0.0742296918767507
+./recordings/50cm-0/: 0/714 = 0.0
+./recordings/attack/: 4/714 = 0.0056022408963585435

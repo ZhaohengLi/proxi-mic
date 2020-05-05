@@ -1,6 +1,7 @@
 import os
 import pickle
 import librosa
+import numpy as np
 
 folders = ["./recordings/2cm-0/",
            "./recordings/2cm-cover/",
@@ -31,6 +32,8 @@ def to_pickle():
             y, sr = librosa.load(file_name, sr=None, mono=False)
             assert (sr == 48000)
             y = y[0].copy() if y[0].max() > y[1].max() else y[1].copy()
+            if folder == "./recordings/5cm-pen-re/":
+                y = y[12000:-48000]
             for i in range(6):
                 section = y[i::6]
                 recordings.append(section)

@@ -2,6 +2,7 @@ from model import run
 from model import model_path
 import math
 from convert import from_pickle
+import numpy as np
 
 log_path = "./analysis/activate_rate.txt"
 
@@ -23,6 +24,19 @@ def test_frame():
             s = max(0, (recording < th).argmin() - int(r * sr))
             t = min(-1, -((recording < th)[::-1].argmin()) + int(r * sr))
             recording = recording[s:t]
+
+            if folder == "./recordings/5cm-pen-re/":
+                window = 1000
+                bar_l = 1
+                bar_h = 1
+                section = 0
+                for i in range(int(len(recording) / window)):
+                    sum = np.sum(recording[i * window:(i + 1) * window] ** 2)
+                    if sum > bar_h:
+                        break
+                    if sum <= bar_l:
+                        section = i
+                recording = recording[(section + 1) * window:]
 
             if len(recording) < 8000:
                 continue
